@@ -6,6 +6,7 @@ languages like a pro.
 This is just a practice repo for myself!
 
 Practice
+
 Exercise 10
 Ask the user for 3 cards. If the sum equals 21 print BLACKJACK! If the sum is greater than 21 print BUST! If the sum is less than 21 print “The total is [TOTAL]”
 
